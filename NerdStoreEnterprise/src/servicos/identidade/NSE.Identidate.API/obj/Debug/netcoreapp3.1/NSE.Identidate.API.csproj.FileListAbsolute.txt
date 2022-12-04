@@ -79,3 +79,7 @@
 /Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/identidade/NSE.Identidate.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
 /Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/identidade/NSE.Identidate.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
 /Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/identidade/NSE.Identidate.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/identidade/NSE.Identidate.API/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/identidade/NSE.Identidate.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/identidade/NSE.Identidate.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/identidade/NSE.Identidate.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
