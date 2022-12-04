@@ -1,0 +1,10 @@
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/bin/Debug/netcoreapp3.1/NSE.Core.deps.json
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/bin/Debug/netcoreapp3.1/NSE.Core.dll
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/bin/Debug/netcoreapp3.1/NSE.Core.pdb
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.csproj.AssemblyReference.cache
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.AssemblyInfoInputs.cache
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.AssemblyInfo.cs
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.csproj.CoreCompileInputs.cache
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.dll
+/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.pdb

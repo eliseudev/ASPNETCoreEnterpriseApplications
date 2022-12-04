@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = /Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/identidade/NSE.Identidate.API/
