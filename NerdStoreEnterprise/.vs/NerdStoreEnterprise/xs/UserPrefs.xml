@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0D94DAB9-50E4-48C6-BD9C-9A698296C135}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Services.Identidade.NSE.Identidate.API PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/servicos/identidade/NSE.Identidate.API/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="src/servicos/identidade/NSE.Identidate.API/Controllers/AuthController.cs" Line="65" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NerdStoreEnterprise" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Identidade" expanded="True">
+                  <Node name="NSE.Identidate.API" expanded="True">
+                    <Node name="Controllers" expanded="True">
+                      <Node name="AuthController.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Web" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
