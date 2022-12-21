@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dq4c5BzzqWHtIgHqAjRGMmthggs6RRN1zxNXFRcxBI8spvKk/mheF7vnEOM9iQv+fbWxFJf0z541nsuYIZnQYA==",
+  "dgSpecHash": "N/cHDmeUG+LRdlNlb4RcG3UnVXIug4UfmTwVWojR2zTt3uLGfBTU+ZEQxovl36YBOL2ZwZamcSVP8MwfHjIjiQ==",
   "success": true,
   "projectFilePath": "/Users/eliseuoliveira/Documents/GitHub/ASPNETCoreEnterpriseApplications/NerdStoreEnterprise/src/servicos/pagamento/NSE.Pagamento.API/NSE.Pagamento.API.csproj",
   "expectedPackageFiles": [],

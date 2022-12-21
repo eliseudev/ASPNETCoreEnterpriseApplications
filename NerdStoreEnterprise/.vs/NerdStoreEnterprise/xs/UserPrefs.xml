@@ -1,11 +1,9 @@
-﻿<Properties StartupConfiguration="{0D94DAB9-50E4-48C6-BD9C-9A698296C135}|Default">
-  <MonoDevelop.Ide.ItemProperties.src.Services.Identidade.NSE.Identidate.API PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/servicos/identidade/NSE.Identidate.API/Controllers/AuthController.cs">
+﻿<Properties StartupConfiguration="{0D94DAB9-50E4-48C6-BD9C-9A698296C135}|Selfhosting - Development">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/servicos/identidade/NSE.Identidate.API/Configuration/SwaggerConfig.cs">
     <Files>
-      <File FileName="src/servicos/identidade/NSE.Identidate.API/Controllers/AuthController.cs" Line="65" Column="73" />
+      <File FileName="src/servicos/identidade/NSE.Identidate.API/Startup.cs" Line="32" Column="61" />
+      <File FileName="src/servicos/identidade/NSE.Identidate.API/Configuration/IdentityConfig.cs" Line="1" Column="1" />
+      <File FileName="src/servicos/identidade/NSE.Identidate.API/Configuration/SwaggerConfig.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,9 +13,7 @@
               <Node name="Services" expanded="True">
                 <Node name="Identidade" expanded="True">
                   <Node name="NSE.Identidate.API" expanded="True">
-                    <Node name="Controllers" expanded="True">
-                      <Node name="AuthController.cs" selected="True" />
-                    </Node>
+                    <Node name="Configuration" expanded="True" selected="True" />
                   </Node>
                 </Node>
               </Node>
@@ -28,7 +24,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.Services.Identidade.NSE.Identidate.API PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
